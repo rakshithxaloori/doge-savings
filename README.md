@@ -1,5 +1,7 @@
 # HTML Table Data Processing Scripts
 
+As of 25th February, 2025's data, the savings add up to Total Saved: $9,601,135,843.23
+
 This repository contains Python scripts for processing HTML table data and performing calculations.
 
 ## Files
